@@ -1,2 +1,2 @@
 #!/bin/bash
-readlink -f 0x00-shell_basics
+find "$(pwd -P)" -name "0x00-shell_basics"
