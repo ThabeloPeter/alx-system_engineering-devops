@@ -1,2 +1,2 @@
 #!/bin/bash
-find "$(pwd -P)" -name "0x00-shell_basics"
+realpath 0x00-shell_basics
